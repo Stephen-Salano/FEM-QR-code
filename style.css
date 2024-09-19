@@ -45,9 +45,10 @@ body{
     padding-right: 10px;
 }
 
-#header p{
+#header h1{
     font-weight: 700;
     color: hsl(218, 44%, 22%);
+    font-size: 15px;
 }
 #sub-text p {
     font-weight: 400;
