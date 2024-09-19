@@ -17,7 +17,7 @@ Your users should be able to:
 
 ### Links
 
-- Live Site URL: [Live Demo]([text](https://stephen-salano.github.io/FEM-QR-code/))
+- Live Site URL: [Live Demo](https://stephen-salano.github.io/FEM-QR-code/)
 
 ## My Process
  I begun buidling the HTML first and follwed with the CSS structuring
